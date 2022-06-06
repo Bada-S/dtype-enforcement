@@ -1,0 +1,635 @@
+{
+    "acat_approval_flag": "null",
+
+    "acat_line_id": "null",
+
+    "acat_request_id": "null",
+
+    "acat_status": "null",
+
+    "atc_coverage_start_date": "null",
+
+    "atc_priority": "null",
+
+    "coverage_status_additional_info": "null",
+
+    "product_bill_to_gu_name": "null",
+
+    "product_bill_to_party_id_parent": "null",
+
+    "product_bill_to_id": "null",
+
+    "contract_bill_to_party_id_parent": "null",
+
+    "contract_bill_to_gu_id": "null",
+
+    "covered_in_scope_data": "null",
+
+    "duplicate_ib_flag": "null",
+
+    "installed_at_gu_name": "null",
+
+    "installed_at_province": "null",
+
+    "past_ldos": "null",
+
+    "parent_instance_id": "null",
+
+    "sfc_exclusion_reason": "null",
+
+    "sweeps_customer_name": "null",
+
+    "contract_sweeps_flag": "null",
+
+    "excluded_flag_acat": "null",
+
+    "installed_at_country": "null",
+
+    "installed_at_party_id_parent": "null",
+
+    "installed_at_party_name_parent": "null",
+
+    "installed_at_customer_name": "null",
+
+    "instance_number_creation_date": "null",
+
+    "manual_exclusion_flag": "null",
+
+    "msa_flagged": "null",
+
+    "service_list_price": "null",
+
+    "coverage_start_date": "null",
+
+    "product_bill_to_gu_id": "null",
+
+    "product_bill_to_party_name": "null",
+
+    "bill_to_site_use_id_match": "null",
+
+    "config_covered_flag": "null",
+
+    "contract_bill_to_name": "null",
+
+    "contract_number": "null",
+
+    "delist_flag": "null",
+
+    "installed_at_site_id": "null",
+
+    "installed_at_city": "null",
+
+    "proposal_id": "null",
+
+    "ship_to_state_province_match": "null",
+
+    "acat_request_type": "null",
+
+    "product_bill_to_party_name_parent": "null",
+
+    "contract_bill_to_id": "null",
+
+    "contract_bill_to_gu_name": "null",
+
+    "cx_ea_flag": "null",
+
+    "coverage_line_id": "null",
+
+    "covered_status": "null",
+
+    "divestiture_flag": "null",
+
+    "initial_discovery_date_on_acat": "null",
+
+    "installed_at_gu_id": "null",
+
+    "instance_id": "null",
+
+    "installed_base_status": "null",
+
+    "item_type_flag": "null",
+
+    "last_date_of_support": "null",
+
+    "mlb_offer_type": "null",
+
+    "serial_number": "null",
+
+    "sfc_account_flag": "null",
+
+    "ship_date": "null",
+
+    "ship_to_party_id_parent": "null",
+
+    "ship_to_party_name": "null",
+
+    "soon_to_expire_flag": "null",
+
+    "technology_group": "null",
+
+    "approved_site_flag": "N",
+
+    "contract_bill_to_party_name_parent": "null",
+
+    "installed_at_postal_code": "null",
+
+    "service_level_sku": "null",
+
+    "product_type": "null",
+
+    "mapped_to_service_flag": "F",
+
+    "product_list_price": "null",
+
+    "serialized_flag": "F",
+
+    "ship_to_city": "null",
+
+    "ship_to_gu_id": "null",
+
+    "bill_to_id_business_entity": "null",
+
+    "business_entity": "null",
+
+    "collector_exposure": "null",
+
+    "confidence_precedence": "null",
+
+    "configuration_type": "null",
+
+    "contract_bill_to_postal_code": "null",
+
+    "coverage_summary_id": "null",
+
+    "critical_asset": "null",
+
+    "mce_source": "null",
+
+    "pid": "null",
+
+    "dnr_flag": "N",
+
+    "duplicate_coverage_flag": "null",
+
+    "end_of_software_maintenance_date": "null",
+
+    "end_of_tac_support_date": "null",
+
+    "engagement_number": "null",
+
+    "deal_id": "null",
+
+    "last_coverage_end_date": "null",
+
+    "covered_in_holding_contract": "null",
+
+    "instance_number": "null",
+
+    "item_type": "null",
+
+    "last_update_date": "null",
+
+    "product_coverage_termination_date": "null",
+
+    "modified_record": "null",
+
+    "note": "null",
+
+    "offer_ato_suite_name": "null",
+
+    "opportunity_not_excluded": "null",
+
+    "product_family": "null",
+
+    "product_family_description": "null",
+
+    "product_pricing_category": "null",
+
+    "service_level": "null",
+
+    "ship_to_city_match": "null",
+
+    "ship_to_country": "null",
+
+    "ship_to_gu_name": "null",
+
+    "ship_to_party_name_parent": "null",
+
+    "ship_to_postal_code": "null",
+
+    "ship_to_site_id": "null",
+
+    "ship_to_site_use_id_match": "null",
+
+    "ship_to_state_province": "null",
+
+    "so_number": "null",
+
+    "sts_code": "null",
+
+    "subref_id": "null",
+
+    "sweeps_customer_number": "null",
+
+    "ineligible_for_quoting": "null",
+
+    "approved_contract_flag": "N",
+
+    "architecture_d": "null",
+
+    "assessment_start_flag": "null",
+
+    "collection_date": "null",
+
+    "collector_matched": "N",
+
+    "contract_bill_to_city": "null",
+
+    "contract_bill_to_country": "null",
+
+    "contract_bill_to_province": "null",
+
+    "contract_expired_category": "null",
+
+    "contract_health_score": "null",
+
+    "coverage_details_months": "null",
+
+    "cpl_renewed": "null",
+
+    "customer_matched": "N",
+
+    "decommissioned_asset": "null",
+
+    "device_health_score": "null",
+
+    "end_of_sale_date": "null",
+
+    "end_of_svc_contract_rnwl_dt": "null",
+
+    "eol_signature_release_dt": "null",
+
+    "excluded_asset_mce": "null",
+
+    "exclusion_reason": "null",
+
+    "exs_number_flag": "null",
+
+    "matching_column_of_mce_vs_collector": "null",
+
+    "matching_column_of_mce_vs_customer_file": "null",
+
+    "global_product_list_price": "null",
+
+    "parent_instance": "null",
+
+    "ship_to_country_match": "null",
+
+    "collector_hostname": "null",
+
+    "coverage_end_date": "null",
+
+    "coverage_status": "null",
+
+    "china_flag": "N",
+
+    "gu_aligned": "null",
+
+    "architecture": "null",
+
+    "install_site_synch_in_config_flag": "null",
+
+    "installed_at_address": "null",
+
+    "sid_business_entity": "null",
+
+    "installed_at_party_id": "null",
+
+    "installed_at_party_id_name": "null",
+
+    "mso": "null",
+
+    "offer_ato_suite_description": "null",
+
+    "end_of_routine_fail_anlysys_dt": "null",
+
+    "end_of_sw_license_date": "null",
+
+    "eol_software_available_dt": "null",
+
+    "gu_data_flag": "null",
+
+    "contract_bill_to_address": "null",
+
+    "sid_status": "null",
+
+    "contract_start_date": "null",
+
+    "last_date_of_renewal": "null",
+
+    "last_date_of_service_attached": "null",
+
+    "ldos_details_in_months": "null",
+
+    "ldos_details_months": "null",
+
+    "maintenance_po_number": "null",
+
+    "meu_allowed_contract_flag": "null",
+
+    "meu_polluted_contract_flag": "null",
+
+    "mss_contract_flag": "null",
+
+    "parent_device_id": "null",
+
+    "parent_pid": "null",
+
+    "parent_last_date_of_support": "null",
+
+    "coverage_line_number": "null",
+
+    "product_coverage_status": "null",
+
+    "product_description": "null",
+
+    "product_po": "null",
+
+    "product_relationship": "null",
+
+    "line_id": "null",
+
+    "pss_contract_flag": "null",
+
+    "quantity": "0",
+
+    "renewal_eligible_flag": "null",
+
+    "replaced_serial_number": "null",
+
+    "cisco_branded_service_tag": "null",
+
+    "service_level_description": "null",
+
+    "sla_end_date": "null",
+
+    "sla_start_date": "null",
+
+    "serviceable": "null",
+
+    "sfc_item_flag": "null",
+
+    "ship_to_category": "null",
+
+    "smart_account_id": "null",
+
+    "sub_architecture": "null",
+
+    "sub_architecture_d": "null",
+
+    "updated_version": "null",
+
+    "verified_status": "null",
+
+    "virtual_account_id": "null",
+
+    "warranty_type": "null",
+
+    "ship_to_address_lines": "null",
+
+    "ship_to_cr_party_name": "null",
+
+    "ship_to_party_id": "null",
+
+    "bill_to_cr_party_name": "null",
+
+    "bill_to_state_province": "null",
+
+    "bill_to_city": "null",
+
+    "bill_to_address_lines": "null",
+
+    "bill_to_postal_code": "null",
+
+    "bill_to_country": "null",
+
+    "parent_serial_number": "null",
+
+    "ib_last_update_date": "null",
+
+    "device_level_total_config_lines": "0",
+
+    "device_level_fixed_product_type": "null",
+
+    "device_level_contract_number_list_length": "0",
+
+    "device_level_service_list_price_raw_total": "0",
+
+    "device_level_product_list_price_total": "0",
+
+    "device_level_historical_list_price_total": "0",
+
+    "device_level_quantity_total": "0",
+
+    "device_level_product_type_chassis_cnt": "0",
+
+    "device_level_product_type_access_point_cnt": "0",
+
+    "sla_status": "null",
+
+    "verification_flag": "null",
+
+    "zone_description": "null",
+
+    "device_level_is_actual_parent": "N",
+
+    "device_level_product_type_card_cnt": "0",
+
+    "device_level_product_type_software_cnt": "0",
+
+    "device_level_product_type_license_cnt": "0",
+
+    "device_level_total_latest_installed": "0",
+
+    "device_level_not_total_latest_installed": "0",
+
+    "device_level_total_sw_product_type": "0",
+
+    "device_level_total_non_sw_product_type": "null",
+
+    "device_level_config": "null",
+
+    "dup_serial_number": "null",
+
+    "product_family_mfg_descr": "null",
+
+    "installed_at_address_lines": "null",
+
+    "usd_prorated_list_price": "null",
+
+    "usd_extended_list_price": "null",
+
+    "target_date_terminated": "null",
+
+    "invoice_start_date": "null",
+
+    "atc_coverage_end_date": "null",
+
+    "target_service_line_name": "null",
+
+    "target_contract_bill_to_id": "null",
+
+    "target_deal_id": "null",
+
+    "bill_to_customer_name": "null",
+
+    "offer_ato_suite_name_acat": "null",
+
+    "ship_date_fiscal_qtr": "null",
+
+    "ship_date_cal_week": "null",
+
+    "ship_date_cal_qtr": "null",
+
+    "ldos_date_fiscal_qtr": "null",
+
+    "ldos_date_fiscal_yr": "null",
+
+    "ldos_date_cal_week": "null",
+
+    "cdv_to_date_fiscal_mon": "null",
+
+    "cdv_to_date_fiscal_yr": "null",
+
+    "price_negotiated": "null",
+
+    "duplicate_ib_flag_mce": "null",
+
+    "end_of_manufacturing_dt": "null",
+
+    "latest_cvg_date_terminated": "null",
+
+    "end_of_change_dt": "null",
+
+    "end_of_new_svc_attachment_dt": "null",
+
+    "instance_last_update_date": "null",
+
+    "ship_date_fiscal_week": "null",
+
+    "ship_date_fiscal_mon": "null",
+
+    "ldos_date_fiscal_mon": "null",
+
+    "ldos_date_cal_qtr": "null",
+
+    "cdv_to_date_fiscal_week": "null",
+
+    "cdv_to_date_cal_qtr": "null",
+
+    "engagement_id": "null",
+
+    "fixed_product_type": "null",
+
+    "total_config_lines": "0",
+
+    "total_latest_installed": "0",
+
+    "total_sw_product_type": "0",
+
+    "total_non_sw_product_type": "0",
+
+    "product_list_price_total": "0",
+
+    "maintenance_so_number_list_length": "0",
+
+    "installed_at_site_id_list_length": "0",
+
+    "product_type_cable": "0",
+
+    "product_type_phone": "0",
+
+    "smart_account_id_name": "null",
+
+    "warranty_end_date": "null",
+
+    "bill_to_cr_party_id": "null",
+
+    "device_level_total_chassis": "0",
+
+    "device_level_is_ldos_flag": "N",
+
+    "device_level_install_base_status_length": "0",
+
+    "device_level_maintenance_so_number_list_length": "0",
+
+    "target_install_at_site_use_id": "null",
+
+    "product_type_access_point": "null",
+
+    "product_end_of_life_flag": "null",
+
+    "device_level_installed_at_site_id_total": "0",
+
+    "device_level_service_list_price_d_total": "0",
+
+    "device_level_product_type_cable_cnt": "0",
+
+    "device_level_product_type_phone_cnt": "0",
+
+    "device_level_installed_at_site_id_list_length": "0",
+
+    "target_contract_number": "null",
+
+    "target_install_site_id_flag": "null",
+
+    "bill_to_gu_id_direct_not_header": "null",
+
+    "offer_ato_suite_description_acat": "null",
+
+    "user_atc_coverage_start_date": "null",
+
+    "ship_date_fiscal_yr": "null",
+
+    "ldos_date_fiscal_week": "null",
+
+    "cdv_to_date_fiscal_qtr": "null",
+
+    "cdv_to_date_cal_week": "null",
+
+    "duplicate_ib_code": "null",
+
+    "engagement_name": "null",
+
+    "canvas_id": "null",
+
+    "is_actual_parent": "null",
+
+    "config_2": "null",
+
+    "is_ldos_flag": "null",
+
+    "not_total_latest_installed": "null",
+
+    "quantity_total": "0",
+
+    "service_list_price_raw_total": "0",
+
+    "install_base_status_length": "0",
+
+    "contract_number_list_length": "0",
+
+    "product_type_card": "0",
+
+    "product_type_chassis": "0",
+
+    "product_type_software": "0",
+
+    "product_type_module": "0",
+
+    "product_type_license": "0",
+
+    "product_type_cover": "0",
+
+    "total_chassis": "0"
+}

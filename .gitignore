@@ -3,3 +3,4 @@ csvs/
 *.csv
 *parquet
 *.json
+__pycache__/*
